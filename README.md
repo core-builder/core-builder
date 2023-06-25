@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Core Builder
+- 👀 I’m interested in building big complex systems
+- 🌱 I’m currently learning Rust, Ruby
+- 💞️ I’m looking to collaborate on strong devs
+- 📫 How to reach me: ping me back here
